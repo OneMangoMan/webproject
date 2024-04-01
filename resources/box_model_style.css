@@ -1,0 +1,48 @@
+/*
+  white: #FFFFFF
+  accent 1 dark green: #23472d
+  accent 2 blue: #4F73CD
+*/
+
+h1, h2, h3 {
+  color: #23472d;
+}
+
+h1 {
+  text-align: center;
+}
+
+th, td {
+  border:#4F73CD solid 4px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+a {
+  color: #23472d;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4F73CD
+}
+
+p.tc {
+  background-color: #23472d;
+  color: white;
+  width: 5in;
+  padding: 5px;
+  border: #4F73CD dashed 5px;
+  margin: 5px;
+}
+
+div {
+  background-color: #23472d;
+  width: 646px;
+  padding: 15px;
+  border: #4F73CD dotted 9px;
+  margin: 10px;
+}
