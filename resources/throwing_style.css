@@ -1,0 +1,40 @@
+/*
+  light blue: #e4ecf2
+  dark blue: #0d4670
+  medium blue: #2B6BB9
+*/
+
+body {
+    background: #e4ecf2;
+    margin: 24px 24px;
+}
+
+h1, h2, h3 {
+    color: #0d4670;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+a {
+    color: #2B6BB9;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #0d4670;
+}
+
+th, td {
+    border:black solid 2px;
+    padding: 6px 12px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+p.pic {
+    padding: 5px 0;
+}
